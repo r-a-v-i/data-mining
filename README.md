@@ -14,10 +14,10 @@ This repository is for Submission of assignment of my class course Data Mining.
 
 ## Assignment 4 - A One-Class Classification Decision Tree
 
- Based on Kernel Density Estimation
+ ## Based on Kernel Density Estimation
 
 ## Assignment 5 - Deep Support Vector Data Description for
- Unsupervised and Semi-Supervised Anomaly Detection
+## Unsupervised and Semi-Supervised Anomaly Detection
  
 ## Assignment 6 - SVM-Boosting based on Markov resampling: Theory and algorithm
 
