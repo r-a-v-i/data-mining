@@ -1,9 +1,10 @@
 # data-mining
 This repository is for Submission of assignment of my class course Data Mining.
-#Group Members
+
+# Group Members
 1. IIT2018108 - Ravi Kumar Sharma
 
-#Assignment Details
+# Assignment Details
 
 Assignment 1 - k -Times Markov Sampling for SVMC 
 Assignment 2 - FAST RATES FOR SVM
